@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73056414190",
+    "firebase_url": "https://ghostshare-f5e7a-default-rtdb.firebaseio.com",
+    "project_id": "ghostshare-f5e7a",
+    "storage_bucket": "ghostshare-f5e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73056414190:android:da9e42112eae042050c6ff",
+        "android_client_info": {
+          "package_name": "com.example.ghostshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73056414190-pvee1q5nln95dlqokrggq906iol7hudr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCopmxhMNdDfWrVXBhrrZUZFzal1Gxod8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73056414190-pvee1q5nln95dlqokrggq906iol7hudr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
